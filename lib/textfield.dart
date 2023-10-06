@@ -1,6 +1,20 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_typeahead/flutter_typeahead.dart';
 
+// so this is a test of contributing to open source
+
+// Lorem ipsum dolor sit amet,
+// consectetur adipiscing elit.
+// Duis viverra pulvinar quam,
+// sed ullamcorper ante sollicitudin quis.
+// Nullam vitae laoreet risus.
+// Praesent auctor imperdiet mi non dignissim.
+// Nam at ullamcorper lorem, a vestibulum lorem.
+// Praesent nec volutpat nulla. Praesent vel diam vitae felis elementum eleifend in id felis.
+// Pellentesque tortor tortor, euismod in vestibulum sed,
+//     sagittis ut odio. Etiam eget convallis ligula, et sodales nisi. Nam a tincidunt ex,
+//     sed rutrum nisl. Sed tristique arcu ut mauris convallis, in vulputate justo facilisis.
+
 class TextFieldExample extends StatefulWidget {
   const TextFieldExample({super.key});
 
